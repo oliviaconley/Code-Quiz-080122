@@ -1,0 +1,42 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#timer {
+    font-family: 'Comfortaa', cursive;
+    text-align: right;
+}
+ .high-scores {
+    font-family: 'Comfortaa', cursive;
+    text-align: left;
+ }
+ .quiz-intro {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+ }
+
+ h1, p {
+    font-family: 'Comfortaa', cursive;
+ }
+
+
+#questions-container {
+    display: none; 
+}
+
+.start-btn, .button1 {
+    background-color: #146c75; 
+    color: white;
+    font-size: 15px;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+    font-family: 'Comfortaa', cursive;
+}
+
+ul {
+    list-style: none;
+}
