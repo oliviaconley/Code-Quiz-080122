@@ -2,19 +2,19 @@
 
 Technologies used: HTML, CSS, JavaScript, GitHub, VSCode
 ## Summary 
-Build a timed multiple-choice quiz featuring dynamically updated HTML and CSS powered by JavaScript code. The quiz includes a penalty subtraction of 3 seconds from the timer for every wrong question. Users are able to store their initials and score
+Build a timed multiple-choice quiz featuring dynamically updated HTML and CSS powered by JavaScript code. The quiz includes a penalty subtraction of 3 seconds from the timer for every wrong question. Users are able to store their initials and score to see the highest score. 
 
 ## Highlights
-* Gives user option of including upper or lowercase letters, special characters and/or numbers.
-* Responsive user face that adapts to browser type.
+* Uses localStorage in JavaScript to store initials and high scores. 
+* Answer button click triggers correct or wrong answer messaging.  
 
 ## Goals 
 
-* Create an tool that allows the user to easily generate a safe password.
+* Create an JavaScript fundamentals quiz that allows the user to test their knowledge while keeping track of their scores. 
 
 ## Learning Experience
 
-* Furthered familiarity with JavaScript and how it powers HTML and CSS.
+* Deepened knowledge of while loops, createElement, appendChild, localStorage and innerHTML. 
 
 ## Links
 

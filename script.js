@@ -71,7 +71,10 @@ function showQuestions () {
         }
 }
 
+
+
 function startTimer() {
+
     timer = setInterval(function() {
       timerCount--;
       timerElement.textContent = timerCount;
